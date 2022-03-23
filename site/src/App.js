@@ -1,4 +1,5 @@
 import './App.css';
+import AboutMe from './components/AboutMe';
 
 function App() {
   return (
@@ -8,6 +9,8 @@ function App() {
       Victoria's coming for you!!
 
       :)))
+
+      <AboutMe />
     </div>
   );
 }

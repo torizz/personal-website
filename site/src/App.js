@@ -8,7 +8,7 @@ function App() {
 
       Victoria's coming for you!!
 
-      :)))
+      :))))
 
       <AboutMe />
     </div>
